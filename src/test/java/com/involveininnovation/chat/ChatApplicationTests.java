@@ -10,4 +10,3 @@ class ChatApplicationTests {
 	void contextLoads() {
 	}
 }
-hello hello
